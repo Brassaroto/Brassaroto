@@ -1,4 +1,4 @@
-<h1 align="left">Hello World 🌎</h1>
+<h1 align="left">Hello World</h1>
 
 ###
 
@@ -7,14 +7,10 @@
 ###
 
 <p align="left">
- 🚀 Sobre mim
-Sou um desenvolvedor Java Fullstack em formação, focado em criar soluções escaláveis e eficientes com Java, Spring Boot, APIs RESTful e MySQL. Apaixonado por tecnologia, tenho me dedicado a aprender e aplicar boas práticas de programação como Clean Code e os princípios SOLID, buscando sempre entregar códigos limpos, organizados e que geram valor real.
-
-Atualmente, estou participando do Bootcamp Java Fullstack da Generation Brasil, aprimorando minhas habilidades em desenvolvimento backend, trabalhando com Java, Spring Boot, MySQL e Git, além de práticas ágeis e colaboração em equipe.
-
-Tenho também conhecimentos em Python, JavaScript (HTML/CSS) e bancos de dados SQL/NoSQL, e estou sempre aberto a aprender novas tecnologias.
-
-Meu foco é transformar desafios em soluções de software, aplicando lógica, criatividade e boas práticas de desenvolvimento.
+Sou um <strong>desenvolvedor Java Fullstack em formação</strong>, focado em criar soluções escaláveis e eficientes com <strong>Java, Spring Boot, APIs RESTful</strong> e <strong>MySQL</strong>. Apaixonado por tecnologia, aplico boas práticas como <strong>Clean Code</strong> e os princípios <strong>SOLID</strong> para construir códigos limpos, organizados e que geram valor real. <br><br>
+Atualmente, participo do <strong>Bootcamp Java Fullstack da Generation Brasil</strong>, aprimorando habilidades em <strong>desenvolvimento backend</strong>, trabalhando com <strong>Java, Spring Boot, MySQL, Git</strong> e <strong>metodologias ágeis</strong>. <br><br>
+Tenho conhecimentos em <strong>Python</strong>, <strong>JavaScript (HTML/CSS)</strong>, bancos de dados <strong>SQL/NoSQL</strong>, e estou sempre buscando aprender novas tecnologias. <br><br>
+Meu objetivo é transformar desafios em soluções de software aplicando lógica, criatividade e boas práticas de desenvolvimento.
 </p>
 
 ###
@@ -30,44 +26,27 @@ Meu foco é transformar desafios em soluções de software, aplicando lógica, c
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
 ###
 
-<h2 align="left">Projects I'm proud of</h2>
-
-###
-
-<ul align="left">
-  <li><strong>Farmácia Java:</strong> Sistema de gerenciamento para farmácia, com CRUD completo e padrão REST.</li>
-  <li><strong>Conta Bancária:</strong> Aplicação que simula operações bancárias (depósitos, saques e transferências), com foco em POO.</li>
-  <li><strong>Projeto Final Bloco 01:</strong> Projeto integrador do bootcamp, aplicando boas práticas de desenvolvimento.</li>
-</ul>
-
-###
-
-<img src="https://raw.githubusercontent.com/Brassaroto/Brassaroto/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h2 align="left">Let's Connect</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/gustavo-brassaroto-lira-a9a378221/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://github.com/Brassaroto" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo" />
   </a>
 </div>
-
-###
